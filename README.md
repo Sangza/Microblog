@@ -13,6 +13,17 @@ This project integrates a custom ERC-20 token, Ethereum Name Service (ENS) integ
 - **Monetization:** Earn tokens through various actions, including posting valuable content, receiving likes and comments, and more.
 - **Personalization:** Customize your profile and account settings to reflect your personality and interests.
 
+## Deployed to 
+1. Avalanche (Fuji C-chain):
+ - Microblog contract address - 0x62891c46C5A874452fB235108bc7282D31272c6E
+ - Registry contract address - 0x8567B9196155798E4E9C90c3914191e4E41a6948
+ - Resolver contract address - 0x418dc642FB7E6c018e31e38973a1308A47Ecea08
+
+2. Arbitrum
+   - Microblog contract address - 0xCC9f0DAfAbcD64e1e8f38f9a204327dd96fC2DE9
+   - Registry contract address - 0x215d9b1D167199C42835cA1dF4B18CE526235922
+   - Resolver contract address - 0x937E8D3E0112847755DD614d00AC41e3bbC34422 
+
 ## Getting Started
 
 To get started with MicroBlog, follow these steps:
